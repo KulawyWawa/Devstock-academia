@@ -3,7 +3,7 @@ body{
     height: 1200px;
     font-family: 'Lexend Deca', sans-serif;
     font-size: 14px;
-    margin: 40px;  
+    margin: 10px;  
 }
 .logo {
     position: relative;
@@ -21,7 +21,7 @@ body{
 .job{
     position: relative;
     left: 12px;
-    top: 4px;
+    top: 6px;
 }
 .search{
     display: flex;
@@ -38,11 +38,12 @@ body{
     border: 1px solid #222426;
     border-radius: 8px;
     position: relative;
-    right: 8px;
-    height: 28px;
-    top: 2px;
+    right: -98px;
+    height: 24px;
+    top: 6px;
+    }
 
-}
+
 .search form label input{
     border:none
 
